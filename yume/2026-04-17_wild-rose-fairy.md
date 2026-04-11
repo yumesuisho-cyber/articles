@@ -4,8 +4,6 @@
 
 ### 🌹 Wild Rose Fairy（愛）と今日の癒しグッズ
 
-今日の1枚をイメージした、Nano Banana 2で生成したAIイラストです✨
-
 ---
 
 ### 📱Nano Banana 2用プロンプト
@@ -83,14 +81,18 @@
 
 ### 📣 他のSNSでも発信しています
 
-#あなたの為のオラクルカード でX（旧Twitter）でもつぶやいています。
+🌙 Threadsでも毎日イラストを投稿しています
 
-Threadsでも日常のつぶやきメインで発信しています✨
-よろしければこちらもフォローお願いします！
+〔Threads投稿イラスト〕
 
-💜 もっと見たい方はThreadsへ　[Threadsリンク]
+💜 もっと見たい方はThreadsへ
 
-Patreonで海外向けにイラストメインの投稿も始めましたので、興味のある方はこちらから　[PatreonリンクURL]
+　https://www.threads.com/@yume_suisho0
+
+Patreonで海外向けにイラストメインの投稿も始めましたので、
+興味のある方はこちらから
+
+　https://patreon.com/yume_suisho?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
 
 ---
 
