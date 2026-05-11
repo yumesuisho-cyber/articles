@@ -35,8 +35,8 @@
 | 0 | 愚者 The Fool | 私 | C：夜明けの旅立ち | ✅ 完了 |
 | I | 魔術師 The Magician | ルナ | C：夜空の錬金術師 | ✅ 完了 |
 | II | 女教皇 The High Priestess | 私 | B：月夜の瞑想者 | ✅ 完了 |
-| III | 女帝 The Empress | ルナ | — | 🔄 進行中 |
-| IV | 皇帝 The Emperor | 私 | — | ⏳ 未着手 |
+| III | 女帝 The Empress | ルナ | A：豊穣の女王 | ✅ 完了 |
+| IV | 皇帝 The Emperor | 私 | — | 🔄 進行中 |
 | V | 法王 The Hierophant | — | — | ⏳ 未着手 |
 | VI | 恋人 The Lovers | — | — | ⏳ 未着手 |
 | VII | 戦車 The Chariot | — | — | ⏳ 未着手 |
