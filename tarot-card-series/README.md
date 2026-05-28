@@ -36,9 +36,9 @@
 | I | 魔術師 The Magician | ルナ | C：夜空の錬金術師 | ✅ 完了 |
 | II | 女教皇 The High Priestess | 私 | B：月夜の瞑想者 | ✅ 完了 |
 | III | 女帝 The Empress | ルナ | A：豊穣の女王 | ✅ 完了 |
-| IV | 皇帝 The Emperor | 私 | — | 🔄 進行中 |
-| V | 教皇 The Hierophant | ルナ | — | ⏳ 未着手 |
-| VI | 恋人 The Lovers | — | — | ⏳ 未着手 |
+| IV | 皇帝 The Emperor | 私 | A：玉座の統治者 | ✅ 完了 |
+| V | 教皇 The Hierophant | ルナ | C：月光の導師 | ✅ 完了 |
+| VI | 恋人 The Lovers | 2人 | — | 🔄 進行中 |
 | VII | 戦車 The Chariot | — | — | ⏳ 未着手 |
 | VIII | 力 Strength | — | — | ⏳ 未着手 |
 | IX | 隠者 The Hermit | — | — | ⏳ 未着手 |
