@@ -39,7 +39,7 @@
 | IV | 皇帝 The Emperor | 私 | A：玉座の統治者 | ✅ 完了 |
 | V | 教皇 The Hierophant | ルナ | C：月光の導師 | ✅ 完了 |
 | VI | 恋人 The Lovers | 2人 | C：銀河の誓い | ✅ 完了 |
-| VII | 戦車 The Chariot | 私 | — | 🔄 記事完成・投稿待ち |
+| VII | 戦車 The Chariot | 私 | B：星を駆ける者 | ✅ 完了 |
 | VIII | 力 Strength | ルナ | — | ⏳ 未着手 |
 | IX | 隠者 The Hermit | — | — | ⏳ 未着手 |
 | X | 運命の輪 Wheel of Fortune | — | — | ⏳ 未着手 |
