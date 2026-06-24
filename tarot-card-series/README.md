@@ -43,7 +43,7 @@
 | VIII | 力 Strength | ルナ | C：星の精霊と少女 | ✅ 完了 |
 | IX | 隠者 The Hermit | 私 | B：星を読む隠者 | ✅ 完了 |
 | X | 運命の輪 Wheel of Fortune | ルナ | — | 🔄 記事完成・投稿待ち |
-| XI | 正義 Justice | — | — | ⏳ 未着手 |
+| XI | 正義 Justice | 私 | — | ⏳ 未着手 |
 | XII | 吊られた男 The Hanged Man | — | — | ⏳ 未着手 |
 | XIII | 死神 Death | — | — | ⏳ 未着手 |
 | XIV | 節制 Temperance | — | — | ⏳ 未着手 |
