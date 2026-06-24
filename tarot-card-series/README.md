@@ -41,7 +41,7 @@
 | VI | 恋人 The Lovers | 2人 | C：銀河の誓い | ✅ 完了 |
 | VII | 戦車 The Chariot | 私 | B：星を駆ける者 | ✅ 完了 |
 | VIII | 力 Strength | ルナ | C：星の精霊と少女 | ✅ 完了 |
-| IX | 隠者 The Hermit | 私 | — | 🔄 記事完成・投稿待ち |
+| IX | 隠者 The Hermit | 私 | B：星を読む隠者 | ✅ 完了 |
 | X | 運命の輪 Wheel of Fortune | ルナ | — | ⏳ 未着手 |
 | XI | 正義 Justice | — | — | ⏳ 未着手 |
 | XII | 吊られた男 The Hanged Man | — | — | ⏳ 未着手 |
