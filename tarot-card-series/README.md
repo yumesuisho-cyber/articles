@@ -44,8 +44,8 @@
 | IX | 隠者 The Hermit | 私 | B：星を読む隠者 | ✅ 完了 |
 | X | 運命の輪 Wheel of Fortune | ルナ | B：月の満ち欠けの輪 | ✅ 完了 |
 | XI | 正義 Justice | 私 | B：星空の天秤 | ✅ 完了 |
-| XII | 吊られた男 The Hanged Man | ルナ | — | 🔄 記事完成・投稿待ち |
-| XIII | 死神 Death | 私 | — | ✍️ 記事下書き完成（XII投票結果待ち） |
+| XII | 吊られた男 The Hanged Man | ルナ | B：逆さまの星空 | ✅ 完了 |
+| XIII | 死神 Death | 私 | — | ✍️ 記事下書き完成（冒頭に投票結果反映済み・投稿待ち） |
 | XIV | 節制 Temperance | ルナ | — | ⏳ 未着手（XIII次回予告で「ルナが描く」と告知予定） |
 | XV | 悪魔 The Devil | — | — | ⏳ 未着手 |
 | XVI | 塔 The Tower | — | — | ⏳ 未着手 |
