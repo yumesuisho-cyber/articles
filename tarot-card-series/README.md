@@ -46,7 +46,7 @@
 | XI | 正義 Justice | 私 | B：星空の天秤 | ✅ 完了 |
 | XII | 吊られた男 The Hanged Man | ルナ | B：逆さまの星空 | ✅ 完了 |
 | XIII | 死神 Death | 私 | C：光になる蝶 | ✅ 完了 |
-| XIV | 節制 Temperance | ルナ | — | ✍️ 記事下書き完成（冒頭に投票結果反映済み・投稿待ち） |
+| XIV | 節制 Temperance | ルナ | — | 🔄 記事・フレーム付き3枚完成（note投稿・投票待ち） |
 | XV | 悪魔 The Devil | — | — | ⏳ 未着手 |
 | XVI | 塔 The Tower | — | — | ⏳ 未着手 |
 | XVII | 星 The Star | — | — | ⏳ 未着手 |
