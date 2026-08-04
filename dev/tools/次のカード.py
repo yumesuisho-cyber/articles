@@ -275,4 +275,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except BrokenPipeError:
+        # head などに渡されて途中で打ち切られた場合。エラー表示は出さない
+        pass
