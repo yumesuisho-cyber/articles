@@ -1,7 +1,14 @@
 # 公開手順（GitHub Pages）
 
-サイトとゲームを、誰でも見られるURLにする手順。
-**急がなくてよい。この手順書は消えないので、やりたくなった日に開けばよい。**
+**✅ 公開済み（2026-08-06）**
+
+- サイト: https://yumesuisho-cyber.github.io/yume-site/
+- ゲーム: https://yumesuisho-cyber.github.io/yume-site/labs/yoru-wo-kiyomeru.html
+- リポジトリ: github.com/yumesuisho-cyber/yume-site（Public）
+- OGP設定済み。noteの自己紹介記事（④の先頭）からリンク済み
+- 更新方法: ローカルの yume-site-upload を直して、GitHubに再アップロード（上書き）
+
+以下は公開時に使った手順の記録。
 
 ---
 
