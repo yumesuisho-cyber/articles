@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r \".tool_response.filePath // .tool_input.file_path // empty\" | { read -r f; case \"$f\" in *\"/記事/\"*.md) root=\"${f%%/記事/*}\"; out=$(python3 \"$root/原稿チェック_余白と改行.py\" \"$f\" 2>&1) || { echo \"$out\"; exit 2; };; esac; }",
+            "timeout": 30,
+            "statusMessage": "原稿の余白と改行をチェック中"
+          }
+        ]
+      }
+    ]
+  }
+}
